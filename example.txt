@@ -1,2 +1,1 @@
-This is my new file
-Update from New-feature branch
+This is change from new-branch
