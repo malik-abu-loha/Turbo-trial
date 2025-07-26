@@ -1,0 +1,4 @@
+test soft reset
+There was a typo
+
+editing code as part of testing the branch adding new code
